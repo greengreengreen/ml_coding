@@ -1,5 +1,4 @@
 import numpy as np
-from sklearn import datasets
 class KNearestNeighbor():
     def __init__(self): 
         self.X_train = None 
